@@ -39,9 +39,11 @@ A simple and fun quiz app built with Flutter!
   - `Data/questions.dart` - List of quiz questions
 
 ## Screenshots
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image.png)
+<p float="left">
+  <img src="image-1.png" alt="Screenshot 1" width="200" />
+  <img src="image-2.png" alt="Screenshot 2" width="200" />
+  <img src="image.png" alt="Screenshot 3" width="200" />
+</p>
 
 ## Credits
 
